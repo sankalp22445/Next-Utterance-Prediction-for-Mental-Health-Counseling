@@ -87,8 +87,8 @@ We evaluated models using **BLEU**, **ROUGE**, **BERTScore**, and **BLEURT**.
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/mental-health-nup.git
-cd mental-health-nup
+git clone https://github.com/sankalp22445/Next-Utterance-Prediction-for-Mental-Health-Counseling.git
+cd Next-Utterance-Prediction-for-Mental-Health-Counseling
 pip install -r requirements.txt
 
 ```
